@@ -1,5 +1,8 @@
 # Lifting State - React Shopping Cart
 
+
+![layout](https://github.com/user-attachments/assets/95cc9adb-9b80-4a5f-923e-3cdb5fedf7dd)
+
   Objective: Build a React shopping cart app with the following features:
 
   1. Set up your React app using Vite and configure ESLint rules.
