@@ -5,9 +5,11 @@
   1. Set up your React app using Vite and configure ESLint rules.
      - Clear out the default `App.jsx` and create a basic setup with "Hello World!".
 
-  2. Plan and implement a component hierarchy for the shopping cart:
+  2. Create the main components for the shopping cart:
      - Create a main `Shop` component and render it in `App.jsx`.
-     - Include two reusable `InventoryList` components for Shop and User inventories.
+     - Include a reusable `InventoryList` components for Shop and User inventories.
+     - **Component Hierarchy Diagram:**
+    ![reusable-chd](https://github.com/user-attachments/assets/50569857-d304-4d2d-b0e4-81867ae49d80)
 
   3. Create an initial data structure:
      - Add the following to src/data/data.js
